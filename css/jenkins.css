@@ -1,10 +1,10 @@
 
 a#jenkins-home-link {
-    background: url("https://phiamo.github.io/images/farmap_40.png") 0 0 no-repeat;
+    background: url("https://phiamo.github.io/images/farmap_50.png") 0 0 no-repeat;
     padding-left: 50px;
     height: 50px;
 }
 
-img#jenkins-head-icon img {
+img#jenkins-head-icon {
       display: none;
 }
