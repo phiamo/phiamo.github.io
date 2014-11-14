@@ -1,0 +1,8 @@
+#top-panel {
+  #top-panel td > a {
+    background: url("//phiamo.github.io/images/farmap_big.png") 0 0 no-repeat;
+    display: block;
+    width: 40px;
+    height: 40px;
+    #top-panel td > a img {
+      display: none; }
